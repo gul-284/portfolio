@@ -76,11 +76,11 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "Fatima Jinnah Womwen University Rawalpindi",
+      school: "Fatima Jinnah Women University Rawalpindi",
       degree: "Bachelor of Science in Computer Science",
       dateRange: "2024 - 2028",
       achievements: [
-        ""Current Student ID: FA24B1-CS-001",
+        "Student ID: FA24B1-CS-001",
         "Focused on Operating Systems, AI, and Digital Logic Design",
         "Proficient in low-level programming and system-level development",
       ],
