@@ -1,5 +1,11 @@
 ---
 import { siteConfig } from "../config";
+// 2. ADD THIS LINE: This tells Astro to load your graphics/styles
+import "../styles/global.css"; 
+
+// 3. Keep your other component imports
+import About from "../components/About.astro";
+// ... any other imports like Experience, Education, etc
 ---
 
 <section id="about" class="p-8 sm:p-12 md:p-16 lg:p-24">
